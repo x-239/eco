@@ -2,7 +2,7 @@ import Link from "next/link";
 import React from "react";
 import Image from "next/image";
 import SearchBar from "./SearchBar";
-import { Home, ShoppingBag } from "lucide-react";
+import { Home } from "lucide-react";
 import { Bell } from "lucide-react";
 import ShoppingCartIcon from "./ShoppingCartIcon";
 function Navbar() {
